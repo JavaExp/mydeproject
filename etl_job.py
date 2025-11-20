@@ -1,1 +1,2 @@
-print('Running ETL Job')
+print('ETL Job started')
+
